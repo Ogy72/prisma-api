@@ -1,4 +1,16 @@
-# PRISMA - People Resource Integrated System Management
+<h1 style="margin-bottom:-55px; margin-top:-20px; margin-left: -50px">
+  <img src="./public/logo/prisma-logo.png" width="150" style="vertical-align:middle; margin-right:-50px;">
+  PRISMA
+</h1>
+
+<h2>
+People Resource Integrated System Management Architecture
+</h2>
+
+---
+
+# Overview
+
 PRISMA adalah platform terpusat untuk mengelola identitas, akses, dan data pegawai yang berfungsi sebagai Single Source of Truth bagi semua aplikasi internal dan vendor.
 
 ## Tujuan Utama
@@ -21,3 +33,22 @@ PRISMA mencakup:
 - Integrasi API untuk aplikasi internal dan vendor
 
 Seluruh aplikasi—seperti absensi, perjalanan dinas, KPI, payroll, dan sistem lainnya—akan mengacu pada PRISMA sebagai pusat data dan autentikasi.
+
+## Roadmap
+
+### Phase 1
+1. Organization Management 
+2. Position Management 
+3. Employee Management
+4. Account Management
+5. Audit Logging
+6. Phase 2
+
+### Identity & Access Management
+1. Single Sign-On 
+2. Vendor Integration API 
+3. Access Policy Managemen
+
+## License
+
+Internal Project – Company Use Only
