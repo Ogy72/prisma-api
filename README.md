@@ -1,26 +1,20 @@
-<h1 style="margin-bottom:-55px; margin-top:-20px; margin-left: -50px">
-  <img src="./public/logo/prisma-logo.png" width="150" style="vertical-align:middle; margin-right:-50px;">
-  PRISMA
-</h1>
-
-<h2>
-People Resource Integrated System Management Architecture
-</h2>
+# PRISMA
+### People Resource Integrated System Management Architecture
 
 ---
 
-# Overview
+## Overview
 
 PRISMA adalah platform terpusat untuk mengelola identitas, akses, dan data pegawai yang berfungsi sebagai Single Source of Truth bagi semua aplikasi internal dan vendor.
 
-## Tujuan Utama
+### Tujuan Utama
 1. Menyatukan data pegawai dan struktur organisasi dalam satu sistem terpusat
 2. Mengelola identitas dan hak akses secara terintegrasi
 3. Menjadi pusat autentikasi (Single Sign-On) untuk seluruh aplikasi
 4. Meningkatkan keamanan dan kontrol tata kelola sistem
 5. Menyediakan fondasi integrasi untuk pengembangan aplikasi masa depan.
 
-## Ruang Linkup
+### Ruang Linkup
 
 PRISMA mencakup:
 
