@@ -1,9 +1,12 @@
-<h1 style="margin-bottom:-55px; margin-top:-20px; margin-left: -50px">
-  <img src="./public/logo/logo-icon.png" width="150" style="vertical-align:middle; margin-right:-50px;">
-  PRISMA
+<h1 align="center" style="margin-bottom:-85px; margin-top:-20px;">
+  <img src="./public/logo/prisma-logo.png" width="275">
 </h1>
 
-<h2>
+<h1 align="center" style="margin-bottom: -30px">
+    PRISMA
+</h1>
+
+<h2 align="center">
 People Resource Integrated System Management Architecture
 </h2>
 
