@@ -1,0 +1,25 @@
+import express from 'express';
+import cors from 'cors';
+import { env } from './config/env';
+// apiRoutes
+import { errorMiddleware } from './presentation/middlewares/error.middlewares';
+import { httpLogger } from './presentation/middlewares/logger.middleware';
+import cookieParser from 'cookie-parser';
+
+export const app = express();
+app.use(cors({
+    origin: env.FRONTEND_URL,
+    credentials: true,
+}));
+
+app.use(httpLogger);
+app.use(cookieParser());
+app.use(express.json());
+
+//apiRoutes
+
+/* Error Handler */
+app.use(errorMiddleware);
+
+
+
