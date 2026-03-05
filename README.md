@@ -1,5 +1,5 @@
 <h1 style="margin-bottom:-55px; margin-top:-20px; margin-left: -50px">
-  <img src="./public/logo/prisma-logo.png" width="150" style="vertical-align:middle; margin-right:-50px;">
+  <img src="./public/logo/logo.svg" width="150" style="vertical-align:middle; margin-right:-50px;">
   PRISMA
 </h1>
 
